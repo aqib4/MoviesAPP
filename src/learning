@@ -1,0 +1,10 @@
+1. I leanrned how to call api using fetech.
+2. how to get the response from api and convert the array into jason.
+3. i leanred how to display data using props , component and useState.
+4. i leanred how to initilize useState when we have a list of data, assign the data into object varaible, and object function
+   return by useState.
+5. Using the variable i leanred how to render a list of data using Map function.
+6. i leanrned how to create a seprate component and import it in app.js file.
+7. How to use props, and then destructure the props into object, that help us to use only relavent data that we need to show.
+8. I leanred how to print those data variables.
+9. i also leanred how to
